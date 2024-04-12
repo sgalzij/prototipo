@@ -19,8 +19,8 @@ const tempoObjetivo1 = new Date ("2024-06-05T00:50:00");
 const tempoObjetivo2 = new Date ("2024-12-05T00:40:00");
 const tempoObjetivo3 = new Date ("2024-12-320T02:00:00");
 const tempoObjetivo4 = new Date ("2024-12-15T1:00:00");
-const tempoObjetivo3 = new Date ("2024-12-320T02:00:00");
-const tempoObjetivo4 = new Date ("2024-12-15T1:00:00");
+const tempoObjetivo5 = new Date ("2024-12-320T02:00:00");
+const tempoObjetivo6 = new Date ("2024-12-15T1:00:00");
 
 const tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
